@@ -13,4 +13,4 @@ total_hours_slept = (((current_year - birth_year) * days) * average_sleep)
 
 print(total_hours_slept)
 
-
+# Calculates total hours slept by a person in their lifetime
