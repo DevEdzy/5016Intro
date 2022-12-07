@@ -21,3 +21,5 @@ if park_time > 3:
 else:
     cost = rate * park_time
     print ("The cost of the parking is $", cost)
+
+   
