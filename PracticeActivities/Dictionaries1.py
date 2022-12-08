@@ -22,3 +22,4 @@ print(cities)
 
 del(cities["Dunedin"])
 print(cities)
+
